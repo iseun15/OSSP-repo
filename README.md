@@ -3,4 +3,5 @@
 
 - Date : 2025.03.24 16:00  
   - Author : Sieun Lee
-
+- Subject : OSS Practice
+- Classroom : 다향관 103
